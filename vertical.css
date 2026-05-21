@@ -1,0 +1,83 @@
+@media (max-width: 768px) {
+
+    .box1 {
+        height: 80px;
+    }
+
+    .nav {
+        height: 50px;
+        display: flex;
+        justify-content: center;
+        padding-left: 0px;
+        border-radius: 0px 0px 18px 18px;
+    }
+
+    .brand {
+        display: flex;
+        justify-content: center;
+        height: 30px;
+    }
+
+    .box2 {
+        aspect-ratio: 3/4;
+    }
+
+    .banner {
+        aspect-ratio: 3/4;
+    }
+
+    .contextarea {
+        padding: 0px 15px 15px 15px;
+        height: 30%;
+    }
+
+    .BannerHeading {
+        /* background-color: lightblue; */
+        color: rgba(51, 201, 254, 1);
+        width: 100%;
+        height: 33%;
+        font-size: 30px;
+        font-weight: 700;
+        display: flex;
+        justify-content: left;
+        /* align-items: baseline;
+        line-height: 1; */
+    }
+
+    .BannerDescrp {
+        width: 100%;
+        height: 33%;
+        font-size: 15px;
+        line-height: 1.1;
+
+    }
+
+    .bannerbtn {
+        width: 90px;
+        height: 35px;
+        cursor: pointer;
+        font-size: 15px;
+        line-height: 1;
+        /* border: 0.1px solid rgba(51, 201, 254, 1); */
+    }
+
+    .dotarea {
+        /* background-color: lightblue; */
+        width: 130px;
+        height: 10px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .dot {
+        background-color: lightblue;
+        width: 10px;
+        height: 10px;
+        border-radius: 5px;
+    }
+
+    .dot1 {
+        width: 50px;
+    }
+}
