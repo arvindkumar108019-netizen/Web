@@ -183,7 +183,7 @@ span {
 }
 
 .dot{
-    background-color:#131313;
+    background-color: rgba(51, 201, 254, 1);
     width: 10px;
     height: 10px;
     border-radius: 5px;
