@@ -156,7 +156,7 @@ span {
     line-height: 1.1;
     transition-duration: 0.4s;
     /* margin-left: 25px; */
-    border: 0.1px solid rgba(51, 201, 254, 1);
+    border: 0.1px solid rgba(51, 201, 254, 0.5);
 }
 
 .bannerbtn:hover {
