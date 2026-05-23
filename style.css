@@ -96,11 +96,11 @@ span {
     background-position: center;
 }
 
-.slide1{background-image: url('dBanner\ -\ 01.png');}
-.slide2{background-image: url('dBanner\ -\ 02.png');}
-.slide3{background-image: url('dBanner\ -\ 03.png');}
-.slide4{background-image: url('dBanner\ -\ 04.png');}
-.slide5{background-image: url('dBanner\ -\ 05.png');}
+.slide1{background-image: url('Image/dBanner\ -\ 01.webp');}
+.slide2{background-image: url('Image/dBanner\ -\ 02.webp');}
+.slide3{background-image: url('Image/dBanner\ -\ 03.webp');}
+.slide4{background-image: url('Image/dBanner\ -\ 04.webp');}
+.slide5{background-image: url('Image/dBanner\ -\ 05.webp');}
 
 .contextarea {
     background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5));
@@ -156,7 +156,7 @@ span {
     line-height: 1.1;
     transition-duration: 0.4s;
     /* margin-left: 25px; */
-    border: 0.1px solid rgba(51, 201, 254, 0.5);
+    border: 0.1px solid rgba(51, 201, 254, 0.3);
 }
 
 .bannerbtn:hover {
@@ -184,7 +184,7 @@ span {
 }
 
 .dot{
-    background-color:rgba(51, 201, 254, 1);
+    background-color:rgba(51, 201, 254, 0.5);
     width: 10px;
     height: 10px;
     border-radius: 5px;
@@ -288,16 +288,16 @@ span {
     background-position: center;
 
 }
-.img1{background-image: url('pImage\ -\ 01.png');}
-.img2{background-image: url('pImage\ -\ 02.png');}
-.img3{background-image: url('pImage\ -\ 03.png');}
-.img4{background-image: url('pImage\ -\ 04.png');}
-.img5{background-image: url('pImage\ -\ 05.png');}
-.img6{background-image: url('pImage\ -\ 06.png');}
-.img7{background-image: url('pImage - 07.jpeg');}
-.img8{background-image: url('pImage\ -\ 08.png');}
-.img9{background-image: url('pImage\ -\ 09.png');}
-.img10{background-image: url('pImage\ -\ 10.png');}
+.img1{background-image: url('Image/pImage\ -\ 01.png');}
+.img2{background-image: url('Image/pImage\ -\ 02.png');}
+.img3{background-image: url('Image/pImage\ -\ 03.png');}
+.img4{background-image: url('Image/pImage\ -\ 04.png');}
+.img5{background-image: url('Image/pImage\ -\ 05.png');}
+.img6{background-image: url('Image/pImage\ -\ 06.png');}
+.img7{background-image: url('Image/pImage\ -\ 07.png');}
+.img8{background-image: url('Image/pImage\ -\ 08.png');}
+.img9{background-image: url('Image/pImage\ -\ 09.png');}
+.img10{background-image: url('Image/pImage\ -\ 10.png');}
 
 .detail{
     padding: 5px 20px;
@@ -364,7 +364,7 @@ span {
     text-align: center;
     background-size: cover;
     background-position: center;
-    background-image: url('fdBanner - 01.png');
+    background-image: url('Image/fdBanner\ -\ 01.png');
     box-shadow: 0px 0px 50px 0px rgba(51, 201, 254, 0.30);
 }
 
@@ -390,9 +390,9 @@ margin-bottom: 30px;}
     box-shadow: 0px 0px 50px 0px rgba(51, 201, 254, 0.30);
 }
 
-.icon1{background-image: url('sicon\ -\ 01.png');}
-.icon2{background-image: url('sicon\ -\ 02.png');}
-.icon3{background-image: url('sicon\ -\ 03.png');}
+.icon1{background-image: url('Image/sicon\ -\ 01.png');}
+.icon2{background-image: url('Image/sicon\ -\ 02.png');}
+.icon3{background-image: url('Image/sicon\ -\ 03.png');}
 
 .box5{
     background-color: lightblue;
@@ -501,9 +501,9 @@ background-color: white;
 }
 
 
-.icon4{background-image: url('icon1.png');}
-.icon5{background-image: url('icon2.png');margin-left: 15px;}
-.icon6{background-image: url('icon3.png');margin-left: 15px;}
+.icon4{background-image: url('Image/icon1.png');}
+.icon5{background-image: url('Image/icon2.png');margin-left: 15px;}
+.icon6{background-image: url('Image/icon3.png');margin-left: 15px;}
 
 .flinks{
     width: 100%;
