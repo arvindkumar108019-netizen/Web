@@ -26,11 +26,11 @@
         aspect-ratio: 3/4;
     }
 
-.slide1{background-image: url('mBanner\ -\ 01.png');}
-.slide2{background-image: url('mBanner\ -\ 02.png');}
-.slide3{background-image: url('mBanner\ -\ 03.png');}
-.slide4{background-image: url('mBanner\ -\ 04.png');}
-.slide5{background-image: url('mBanner\ -\ 05.png');}
+.slide1{background-image: url('Image/mBanner\ -\ 01.png');}
+.slide2{background-image: url('Image/mBanner\ -\ 02.png');}
+.slide3{background-image: url('Image/mBanner\ -\ 03.png');}
+.slide4{background-image: url('Image/mBanner\ -\ 04.png');}
+.slide5{background-image: url('Image/mBanner\ -\ 05.png');}
 
     .contextarea {
         padding: 0px 15px 15px 15px;
@@ -156,7 +156,7 @@
 .featuredBanner{
     aspect-ratio: 1/1;
     font-size: 30px;
-    background-image: url('fmBanner - 01.png');
+    background-image: url('Image/fmBanner\ -\ 01.png');
 }
 
 .textbox{width: 80%;
